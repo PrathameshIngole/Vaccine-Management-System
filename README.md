@@ -54,8 +54,3 @@ To use your own database details, follow these steps:
         "your_username",
         "your_password");
     ```
-## Authors
-
-- [@mkptechnicals](https://www.github.com/MKPTechnicals)
-
-Feel free to customize the application to fit your specific requirements. You can modify the code, add new features, or improve existing functionalities based on your needs.
